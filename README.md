@@ -7,7 +7,7 @@ MidTBot на ESP32
 
 ## BOM:
 
-######PCB
+###### PCB
 
 |Name|Desc|Qty
 |---|---|---
