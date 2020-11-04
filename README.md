@@ -127,4 +127,4 @@ GitHub автора: [https://github.com/bdring/midTbot_esp32](https://github.co
 
 Grbl Esp32: [https://github.com/bdring/Grbl_Esp32](https://github.com/bdring/Grbl_Esp32)
 
-Связаться со мной: dementiev@me.com
+Связаться со мной: info@dementiev.net
